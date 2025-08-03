@@ -1,0 +1,50 @@
+EDUCATION
+    B.S. in Computer Science
+    University of Example, City, State
+    Expected Graduation: May 2026
+    GPA: 3.6/4.0
+    Relevant Coursework: Data Structures & Algorithms, Web Development, Database Systems, Software Engineering
+
+TECHNICAL SKILLS
+    Languages: Python, JavaScript, Java, C++
+    Frameworks: React, Flask (beginner), Node.js (basic knowledge)
+    Databases: MySQL, MongoDB (basic familiarity)
+    Tools: Git, VS Code, Postman, Linux, Google Firebase
+    Others: REST APIs, Agile basics, debugging and troubleshooting
+
+PROJECT EXPERIENCE
+    Title: Student Activity Portal
+    Info: Personal Project — JavaScript, Firebase, HTML/CSS
+    Bullet1: Built a responsive web app for students to track and manage extracurricular activities.
+    Bullet2: Integrated Firebase for user authentication and real-time database.
+    Bullet3: Implemented basic CRUD operations and role-based access control.
+
+    Title: Simple Todo App (CLI)
+    Info: Python — GitHub Repo Available
+    Bullet1: Designed and implemented a command-line to-do list manager using file I/O and basic OOP.
+    Bullet2: Practiced clean code structure and modularity.
+
+WORK EXPERIENCE
+    Title: IT Support Assistant (Part-Time)
+    Location: University Computer Lab, City, State
+    Period: Jan 2024 – Present
+    Bullet1: Provided technical support for over 100+ students and faculty weekly.
+    Bullet2: Installed software, configured lab computers, and managed basic system troubleshooting.
+    Bullet3: Logged and resolved tickets using an internal tracking system.
+
+RESEARCH EXPERIENCE
+    Title: Natural Language Processing Research Assistant
+    Location: Department of Computer Science, University of Example
+    Period: May 2024 – Aug 2024
+    Bullet1: Contributed to an NLP dataset collection project focused on linguistic diversity.
+    Bullet2: Used Python scripts to scrape and preprocess textual data.
+    Bullet3: Documented workflows and collaborated on version control using GitHub.
+
+LEADERSHIP & INVOLVEMENT
+    Bullet1: Tech Club Member, Hackathons and Coding Challenges – Participated in 3 university hackathons
+    Bullet2: Peer Tutor, Intro to Programming – Mentored 1st-year students in Python basics
+
+ADDITIONAL INFO
+    Bullet1: Open to relocation or remote internships
+    Bullet2: Strong communicator and self-learner
+    Bullet3: Currently building a personal portfolio at: [your-portfolio-link.com]

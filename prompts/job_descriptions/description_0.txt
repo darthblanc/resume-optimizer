@@ -1,0 +1,52 @@
+Job Title: Software Developer Intern
+Location: [City, State or Remote]
+Duration: [3/6 months or other]
+Start Date: [e.g., Fall 2025 or ASAP]
+Compensation: [Paid/Unpaid, hourly rate or stipend]
+
+About the Role
+We are seeking a motivated and detail-oriented Software Developer Intern to join our engineering team. As an intern, you will gain hands-on experience in building, testing, and deploying real-world software systems. You’ll work alongside experienced developers on meaningful projects that contribute to the company’s goals.
+
+Key Responsibilities
+Collaborate with engineers to design, develop, and maintain web or backend applications.
+
+Write clean, efficient, and well-documented code.
+
+Participate in code reviews and team meetings.
+
+Assist in testing, debugging, and troubleshooting software issues.
+
+Contribute to project documentation and user guides as needed.
+
+Learn and apply best practices in software development.
+
+Qualifications
+Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
+
+Familiarity with at least one programming language such as Python, Java, JavaScript, C++, or C#.
+
+Understanding of basic data structures, algorithms, and software development principles.
+
+Good problem-solving skills and attention to detail.
+
+Ability to work independently and as part of a team.
+
+Eagerness to learn and grow in a fast-paced environment.
+
+Preferred Skills (Nice to Have)
+Experience with Git or other version control systems.
+
+Familiarity with web frameworks (e.g., React, Node.js, Django, Flask).
+
+Exposure to databases (SQL or NoSQL) and REST APIs.
+
+Participation in coding competitions, open-source projects, or personal tech projects.
+
+What You'll Gain
+Practical experience with the software development lifecycle.
+
+Mentorship from experienced engineers.
+
+Exposure to agile development processes and tools.
+
+A chance to build software that impacts real users.
