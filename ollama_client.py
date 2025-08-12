@@ -2,14 +2,18 @@ import ollama
 from prompt_loader import PromptLoader
 from response_handler import ResponseHandler
 
+
 class OllamaClient:
     def __init__(self, model="codellama"):
         self.loader: PromptLoader = PromptLoader()
         self.model = model
         self.handler: ResponseHandler = ResponseHandler()
 
-    def set_job_description(self, job_description, prompt_name):
-        self.loader.set_job_description(job_description, prompt_name)
+    def load_base_system_prompt(self, prompt_name):
+        self.loader.load_system_prompt(prompt_name)
+
+    def set_job_description(self, job_description):
+        self.loader.set_job_description(job_description)
 
     def set_resume_content(self, resume_content):
         self.loader.set_resume_content(resume_content)
@@ -34,11 +38,11 @@ class OllamaClient:
     def compose_messages(self) -> list[dict]:
         return [
             {
-                "role": "system",
+                "role": "user",
                 "content": "\n".join(self.loader.system_prompt)
             },
-            {
-                "role": "user",
-                "content": "\n".join(self.loader.user_prompt)
-            }
+            # {
+            #     "role": "user",
+            #     "content": "\n".join(self.loader.user_prompt)
+            # }
         ]

@@ -4,10 +4,12 @@ import sys
 if "__main__" == __name__:
     args = sys.argv
     # print(args)
-    client = OllamaClient()
+    client = OllamaClient(model="llama3.1:8b")
+    client.load_base_system_prompt("prompt_5")
     with open(f"prompts/job_descriptions/{args[1]}.txt", "r") as fd:
         job_description = fd.read()
-    client.set_job_description(job_description, "prompt0")
+    # print(job_description)
+    client.set_job_description(job_description)
     with open(f"prompts/resumes/{args[2]}.txt", "r") as fd:
         resume_content = fd.read()
     client.set_resume_content(resume_content)
